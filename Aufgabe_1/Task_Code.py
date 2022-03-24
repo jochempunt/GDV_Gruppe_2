@@ -20,15 +20,7 @@ blank_IMG[100:200, 1150:1250] = copy_Array
 blank_IMG[100:200, 30:130] = copy_Array
 title = "Grayscale"
 cv2.namedWindow(title, cv2.WINDOW_NORMAL)
-
-
-def circle_path(t, scale, offset):
-    result_Value = (int(scale*math.cos(t)+offset), 400)
-    return result_Value
-
-
 backup_Image = blank_IMG.copy()
-graySquareColor = 127
 timer = 1
 while True:
     timer += 1
