@@ -37,7 +37,10 @@ while True:
     backup_Image = blank_IMG.copy()
     #video_Out.write(animation_Image)
     cv2.imshow(title, animation_Image)
-    cv2.waitKey(8)
+   
+    if cv2.waitKey(8) == ord('q'):
+        cv2.destroyAllWindows()
+        break
     if (timer >= 1179):
         break
 if cv2.waitKey(0) == ord('q'):
