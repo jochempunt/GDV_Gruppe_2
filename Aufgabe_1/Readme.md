@@ -1,6 +1,6 @@
 # Task 1 Optical-Illlusion
 ### Description
-uses the *numpy* and *cv2* library
+uses the modules *numpy* version 1.22.0 and *cv2* version 4.5.5.64 
 ##### Contents
 the program contains **1** Python file: *"Task_Code.py"*
 and **1** video file :*"gradientIllusion.mp4"*
