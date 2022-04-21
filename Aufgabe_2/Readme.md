@@ -5,7 +5,7 @@ the python version used is Python 3.8.5
 ##### Contents
 the program contains **1** Python file: *"object_counting_code.py"*
 ### Instructions
-Run the code file to showcase both the original image and the image with applied mask for each image.
+Run the code file to showcase both the original image and the image with applied mask for each image. <br></br>
 To step to the next image, press *e* on your keyboard.
 To exit the program, press *q* on your keyboard at any time.
 ### How it works
