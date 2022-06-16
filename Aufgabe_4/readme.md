@@ -4,6 +4,7 @@ uses the modules *numpy* version 1.22.0 and *cv2* version 4.6.0.66
 the python version used is Python 3.10.5
 ##### Contents
 the program contains **2** Python files: *"GDV_ImageRetrieval.py"* & *"GDV_Training.py"*
+the *"GDV_Training.py"*-file contains a newly created Descriptor calles TINY_COLOR16
 the taskfolder also contains two mosaic images: *"Mosaic_Img.jpeg"* & *"Mosaic_Img2.jpeg"*
 note that the data set is empty since we put it into our .gitignore
 ### Instructions
